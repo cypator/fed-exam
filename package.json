@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^27.4.1",
-    "@types/node": "^17.0.21",
-    "lerna": "^3.13.1"
+    "@types/jest": "^29.2.4",
+    "@types/node": "^18.11.11",
+    "lerna": "^6.1.0"
   }
 }
